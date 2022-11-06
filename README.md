@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/karthikss107" target="blank"><img src="https://img.shields.io/twitter/follow/karthikss107?logo=twitter&style=for-the-badge" alt="karthikss107" /></a> </p>
 
-- 🔭 I’m currently working on [ASMEGECBH(webmaster)](https://asmegecbh.in/)
+- 🔭 I earlier worked as [ASMEGECBH(webmaster)](https://asmegecbh.in/)
+
+- 🔭  I'm currently working on [IEEE SB GECBH(webmaster)](https://www.ieeegecbh.org/)
 
 - 🌱 I’m currently learning **java script ,python**
 
